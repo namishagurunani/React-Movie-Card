@@ -1,4 +1,4 @@
-## Hosted-Link[[Demo]](https://react-movie-card.vercel.app/)
+## Hosted-Link--[[Demo]](https://react-movie-card.vercel.app/)
 
 # Getting Started with Create React App
 
